@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/**
+ *  @description ${1:spec_description}
+ *  @params ${2}
+ */
+function it_${1:spec_description}(${2})
+{
+    ${3:\$this->}
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>spec</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

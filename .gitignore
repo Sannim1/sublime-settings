@@ -1,0 +1,19 @@
+*.cache
+*.tmTheme
+
+builds/
+
+
+Package Control.*ca-bundle
+Package Control.ca-certs/
+Package Control.ca-list
+Package Control.cache/
+Package Control.last-run
+
+SideBarEnhancements/
+SublimeLinter/
+
+SVN*
+
+WakaTime.sublime-settings
+Zeal.sublime-settings

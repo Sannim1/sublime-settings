@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+if (${1}) ${2:return};
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>iif</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>

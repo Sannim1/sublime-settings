@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+\$content = json_encode([
+    '${1:key}' => '${2:value}',
+]);
+
+\$this->call(
+    '${3:PUT}',
+    '${4:users/2/devices}',
+    [],
+    [],
+    [],
+    [],
+    \$content
+);
+
+\$originalResponse = \$this->response->getData();
+\$responseData = \$originalResponse->data;
+
+\$this->assertResponseOk();
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>callOk</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+</snippet>
