@@ -13,12 +13,13 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"copy_with_empty_selection": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"drag_text": true,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Fira Code",
 	"font_options":
 	[
@@ -56,7 +57,7 @@
 	"sidebar_default": true,
 	"spell_check": false,
 	"tab_size": 4,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

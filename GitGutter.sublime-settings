@@ -1,0 +1,18 @@
+{
+  // Do not set GitGutter icons in these regions
+  // Useful for making sure GitGutter does not override other
+  // regions, (e.g. Bookmarks, Linter/BracketHighlighter icons.)
+  "protected_regions": [
+    "sublimelinter-warning-marks",
+    "sublimelinter-error-marks",
+    "sublimelinter-warning-gutter-marks",
+    "sublimelinter-error-gutter-marks",
+    "lint-underline-illegal",
+    "lint-underline-violation",
+    "lint-underline-warning",
+    "lint-outlines-illegal",
+    "lint-outlines-violation",
+    "lint-outlines-warning",
+    "lint-annotations",
+  ]
+}
