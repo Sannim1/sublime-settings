@@ -29,6 +29,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"SideBarGit",
 		"Vintage"
 	],
 	"indent_guide_options":
