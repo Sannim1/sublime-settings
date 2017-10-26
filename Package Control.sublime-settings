@@ -42,6 +42,8 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
+		"SublimeLinter-rubocop",
+		"Terraform",
 		"Themr",
 		"WakaTime",
 		"WordCount",
