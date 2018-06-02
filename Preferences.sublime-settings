@@ -25,12 +25,11 @@
 	[
 		"no_round"
 	],
-	"font_size": 9,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SideBarGit",
-		"Vintage"
+		"SideBarGit"
 	],
 	"indent_guide_options":
 	[
@@ -48,7 +47,7 @@
 	"preview_on_click": false,
 	"rulers":
 	[
-		80,
+		90,
 		120
 	],
 	"save_on_focus_lost": true,
@@ -57,7 +56,7 @@
 	"show_full_path": false,
 	"sidebar_default": true,
 	"spell_check": false,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
