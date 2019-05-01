@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+# rubocop:disable ${0:Metrics/LineLength}
+# rubocop:enable ${0:Metrics/LineLength}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rud</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.ruby</scope>
+</snippet>
