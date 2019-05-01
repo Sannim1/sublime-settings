@@ -41,6 +41,8 @@
 	"match_brackets_content": true,
 	"match_selection": true,
 	"match_tags": false,
+	"material_theme_accent_graphite": true,
+	"material_theme_big_fileicons": true,
 	"material_theme_compact_panel": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
@@ -48,12 +50,17 @@
 	"rulers":
 	[
 		90,
-		120
+		100,
+		100.1,
+		100.2,
+		100.3,
+		100.4,
+		100.5
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
 	"scroll_speed": 20,
-	"show_full_path": false,
+	"show_full_path": true,
 	"sidebar_default": true,
 	"spell_check": false,
 	"tab_size": 2,
