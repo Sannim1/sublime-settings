@@ -29,6 +29,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"PackageResourceViewer",
 		"SideBarGit"
 	],
 	"indent_guide_options":

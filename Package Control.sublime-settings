@@ -15,6 +15,7 @@
 		"Colorsublime",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
+		"Elixir",
 		"Git",
 		"GitGutter",
 		"Indent XML",
@@ -49,6 +50,7 @@
 		"SublimeLinter-rubocop",
 		"Terraform",
 		"Themr",
+		"Vuejs Complete Package",
 		"WakaTime",
 		"WordCount",
 		"Zeal"
