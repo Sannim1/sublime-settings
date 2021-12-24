@@ -41,8 +41,8 @@
 		"PHPUnit Completions",
 		"Predawn",
 		"Pretty JSON",
+		"Pretty YAML",
 		"RuboCop",
-		"Sass",
 		"Schemr",
 		"Search in Project",
 		"SideBarEnhancements",
@@ -60,6 +60,6 @@
 		"Vuejs Complete Package",
 		"WakaTime",
 		"WordCount",
-		"Zeal"
-	]
+		"Zeal",
+	],
 }
