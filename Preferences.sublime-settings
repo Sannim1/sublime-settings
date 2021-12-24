@@ -69,7 +69,7 @@
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
-	"scroll_speed": 100,
+	"scroll_speed": 10000000,
 	"show_full_path": true,
 	"sidebar_default": true,
 	"spell_check": false,
