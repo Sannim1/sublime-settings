@@ -64,12 +64,30 @@
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
-	"scroll_speed": 20,
+	"scroll_speed": 100,
 	"show_full_path": true,
 	"sidebar_default": true,
 	"spell_check": false,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+
+	// When Vintage, the vi emulation package, is enabled
+	// (see ignored_packages, below), this setting controls if files are opened
+	// in command mode or insert mode by default
+	"vintage_start_in_command_mode": true,
+
+	// Yank commands can place the text in either an internal register, or in
+	// the system clipboard.
+	"vintage_use_clipboard": true,
+
+	// By default Vintage will interpret all ctrl+<key> key bindings as
+	// regular Sublime Text key bindings. Set this to true to make ctrl keys
+	// act as they do in vim, instead (e.g., ctrl+f to move forward a page).
+	"vintage_ctrl_keys": true,
+
+	// relative_line_numbers will draw each line number as the distance from
+	// the current line. Useful in conjunction with Vintage.
+	"relative_line_numbers": true,
 }
