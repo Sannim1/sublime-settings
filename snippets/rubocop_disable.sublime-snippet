@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-# rubocop:disable ${0:Metrics/LineLength}
-# rubocop:enable ${0:Metrics/LineLength}
+# rubocop:disable ${0:Layout/LineLength}
+# rubocop:enable ${0:Layout/LineLength}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>rud</tabTrigger>
