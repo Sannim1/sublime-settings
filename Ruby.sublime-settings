@@ -1,5 +1,9 @@
 // These settings override both User and Default settings for the Ruby syntax
 {
     // The number of spaces a tab is considered equal to
-    "tab_size": 2
+    "tab_size": 2,
+    "rulers": [
+        90,
+        120,
+    ],
 }

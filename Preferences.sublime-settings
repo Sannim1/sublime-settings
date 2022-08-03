@@ -59,9 +59,8 @@
 	"preview_on_click": false,
 	"rulers":
 	[
-		90,
+		72,
 		100,
-		120,
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": false,
