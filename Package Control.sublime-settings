@@ -54,12 +54,11 @@
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-rubocop",
-		"Tabnine",
 		"Terraform",
 		"Themr",
 		"Vuejs Complete Package",
 		"WakaTime",
-		"WordCount",
+		"WordingStatus",
 		"Zeal",
 	],
 }
